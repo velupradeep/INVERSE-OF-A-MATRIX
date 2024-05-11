@@ -27,6 +27,6 @@ print(numpy.linalg.inv(a))
 ![Screenshot 2023-12-24 100700](https://github.com/velupradeep/INVERSE-OF-A-MATRIX/assets/150329341/5885d619-c49a-4617-ab05-f3de5387773d)
 
 ## Result:
-Thus the inverse of given matrix is successfully solved using python program
+Thus the inverse of given matrix is successfully solved using python program of this is the inverse of matrix....................................................
 
 
